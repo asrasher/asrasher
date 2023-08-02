@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hiya! 👋
+
+💻 java dev 
+🔊 linguistics grad
+🌱 learning more about testing!
+🦄 based in edinburgh
+
 
 <!--
 **asrasher/asrasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
