@@ -1,9 +1,9 @@
 ### Hiya! 👋
 
-💻 java dev 
-🔊 linguistics grad
-🌱 learning more about testing!
-🦄 based in edinburgh
+ - 💻 java dev 
+ - 🔊 linguistics grad
+ - 🌱 learning more about testing!
+ - 🦄 based in edinburgh
 
 
 <!--
