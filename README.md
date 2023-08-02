@@ -1,4 +1,4 @@
-![image](https://github.com/asrasher/asrasher/assets/77159313/34cbf66b-c479-46be-9480-06b10f735869)
+![Purple Minimalist Brush Personal LinkedIn Banner](https://github.com/asrasher/asrasher/assets/77159313/ba079b2d-a8fe-4232-8c0a-5c09b08ee699)
 ### Hiya! 👋
 
  - 💻 java dev 
